@@ -31,4 +31,4 @@ $ npm start
 ```
 
 ## License
-
+[MIT](LICENSE)
