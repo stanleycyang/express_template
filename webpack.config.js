@@ -8,7 +8,7 @@ module.exports = Object.assign(prodConfig, {
   entry: [
     'webpack-dev-server/client?http://localhost:8080/',
     'webpack/hot/only-dev-server',
-    './app/assets/javascripts'
+    './app/assets/javascripts/index.js'
   ],
   module: {
     loaders: [

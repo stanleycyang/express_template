@@ -1,7 +1,7 @@
 var path = require('path');
 
 var outDirectory = (process.env.NODE_ENV === 'production') ?
-  'dist' :
+  'public/javascripts/' :
   'build';
 
 module.exports = {
